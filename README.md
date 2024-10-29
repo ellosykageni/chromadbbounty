@@ -54,7 +54,7 @@ The application uses SentenceTransformer fine-tuned on medical literature ` (pri
 
 ### 5. Running the Application
 Once everything is set up, you can start the application by running:
-  `python app.py`
+  `python main.py`
 This will launch a local server, and a link will appear in the terminal, which you can open in your browser to access the application interface.
 
 Gradio Shareable Link: By default, Gradio provides a shareable link (share=True in the code). This is useful if you want others to access your local server (e.g., for testing).
