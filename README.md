@@ -44,10 +44,10 @@ Install the dependencies listed in requirements.txt. Run:
   `pip install -r requirements.txt`
   
 The primary dependencies are:</br>
-transformers: To load the pre-trained embedding model.</br>
-sentence-transformers: Specifically for handling and encoding sentences using SentenceTransformer.</br>
-chromadb: A vector database to store and retrieve embeddings.</br>
-gradio: For creating the web interface.
+#### transformers: To load the pre-trained embedding model.</br>
+#### sentence-transformers: Specifically for handling and encoding sentences using SentenceTransformer.</br>
+#### chromadb: A vector database to store and retrieve embeddings.</br>
+#### gradio: For creating the web interface.
 
 ### 4. Model Setup (Medical Embedding Model)
 The application uses SentenceTransformer fine-tuned on medical literature (pritamdeka/S-PubMedBert-MS-MARCO). This model is automatically downloaded by sentence-transformers during runtime. Ensure you have an internet connection for the first run.
