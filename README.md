@@ -33,11 +33,11 @@ Navigate to the project directory:
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
 Creating a virtual environment helps to manage dependencies independently of other projects.
-  `python -m venv venv`
+  `python -m venv .venv`
 
 Activate the virtual environment:
-Windows: `venv\Scripts\activate`
-Mac/Linux: `source venv/bin/activate`
+Windows: `.venv\Scripts\activate`
+Mac/Linux: `source .venv/bin/activate`
 
 ### 3. Install Required Dependencies
 Install the dependencies listed in requirements.txt. Run:
