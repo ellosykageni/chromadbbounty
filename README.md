@@ -29,7 +29,7 @@ Open your terminal or command prompt.
 Clone the project repository using:
   `git clone https://github.com/ellosykageni/chromadbbounty.git`
 Navigate to the project directory:
-`cd medical-literature-search`
+`cd chromadbbounty`
 
 ### 2. Create a Virtual Environment (Optional but Recommended)
 Creating a virtual environment helps to manage dependencies independently of other projects.
