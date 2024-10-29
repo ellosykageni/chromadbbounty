@@ -1,7 +1,7 @@
 ## Medical Literature Search Application Documentation
 
 ### Project Overview
-This project is a medical literature search application designed to assist healthcare professionals, researchers, and academics in quickly retrieving relevant medical papers based on specific queries. The application leverages embeddings to represent the semantic content of medical documents and employs a vector database (ChromaDB) to efficiently search and retrieve relevant documents. A Gradio-based web interface allows users to interactively input search queries and view results, with options to filter by publication year, journal, and keywords. This video will gove you a quick overview of how the application looks like and some of the functionalities <a href=https://youtu.be/WCRy0sATm5s>Medical Literature Search</a>
+This project is a medical literature search application designed to assist healthcare professionals, researchers, and academics in quickly retrieving relevant medical papers based on specific queries. The application leverages embeddings to represent the semantic content of medical documents and employs a vector database (ChromaDB) to efficiently search and retrieve relevant documents. A Gradio-based web interface allows users to interactively input search queries and view results, with options to filter by publication year, journal, and keywords. This video will give you a quick overview of how the application looks like and some of the functionalities <a href=https://youtu.be/WCRy0sATm5s>Medical Literature Search</a>
 
 ### Application Flow
 ### Document Ingestion:
