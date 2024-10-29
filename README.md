@@ -50,7 +50,7 @@ The primary dependencies are:</br>
 #### gradio: For creating the web interface.
 
 ### 4. Model Setup (Medical Embedding Model)
-The application uses SentenceTransformer fine-tuned on medical literature `(pritamdeka/S-PubMedBert-MS-MARCO)`. This model is automatically downloaded by sentence-transformers during runtime. Ensure you have an internet connection for the first run.
+The application uses SentenceTransformer fine-tuned on medical literature ` (pritamdeka/S-PubMedBert-MS-MARCO) `. This model is automatically downloaded by sentence-transformers during runtime. Ensure you have an internet connection for the first run.
 
 ### 5. Running the Application
 Once everything is set up, you can start the application by running:
